@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Yank",
+  "description": "This extension removes blacklisted urls from browser history",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "history"
+  ],
+  "background": {
+        "scripts": [
+            "background.js"
+        ],
+  "persistent": false
+
+    }
+}
