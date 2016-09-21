@@ -16,6 +16,17 @@
         body{
           background-color: black;
         }
+        .submit{
+          display: flex;
+          margin-left: 30%;
+          flex-direction: column;
+          /*justify-content: center;*/
+          border-radius: 30%;
+          border: none;
+          background-color: yellow;
+          color: black;
+          font-weight: bold;
+        }
 
     </style>
 
@@ -26,12 +37,12 @@
   <body>
     <form id="my-form">
       <h1 class="yankTitle">Yank</h1>
-      <input type="textarea" id="url" name="name" value="Yank a Url"></input>
+      <input type="textarea" id="url" name="name" placeholder="Yank a Url"></input>
       <br></br>
-      <input type="textarea" id="keyword" name="name" value="Yank a keyword"></input>
+      <input type="textarea" id="keyword" name="name" placeholder="Yank a keyword"></input>
       <br/>
       <br/>
-      <input type="submit" name="name" value="Submit"></input>
+      <input type="submit" class="submit" name="name" value="Submit"></input>
     </form>
   </body>
 </html>
