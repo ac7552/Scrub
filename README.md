@@ -4,8 +4,6 @@ Yanking away unwanted browser history
 
 ### URL Remover
 
-**NB**:
-
 There are varoius reasons when or why one may use incognito, for example you may want to safely search for a birthday present for your loved one without worrying if they'll be able to see remnants of what you've looked up. However sometimes you may want to preserve most of your user history, while just removing sites that contain specific keywords. This chrome extension will replace the need to use incogntido, and provide users with the ability of blacklisting keywords or sites that will automatically be deleted on a new page load.
 
 
