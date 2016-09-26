@@ -46,7 +46,8 @@ There will also be two HTML files to display the content:
 - `options.html`: the file that renders the Settings menu for the user
 
 This app also makes extensive use of the chrome history api: 
-![chrome.history] (https://developer.chrome.com/extensions/history)
+https://developer.chrome.com/extensions/history
+
 #Code Snippet:
   - How Yank removes URLs from Chrome History
 ````Javascript
