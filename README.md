@@ -27,9 +27,11 @@ With this extension, users will be able to:
 - In the Un-Yank input field type in a keyword that you'd like to be removed from the yank list, and the removal of that keyword from URL history will no longer persist.
 
 
-### Wireframes
+### Yank in Action
 
-![wireframes](https://github.com/ac7552/Yank/blob/master/Blacklist_WireFrame.png)
+!(https://github.com/ac7552/Yank/blob/master/Yank_in_action.png)
+!(https://github.com/ac7552/Yank/blob/master/chrome_history1.png)
+!(https://github.com/ac7552/Yank/blob/master/chrome_history2.png)
 
 ### Technologies & Technical Challenges
 
