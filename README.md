@@ -29,9 +29,9 @@ With this extension, users will be able to:
 
 ### Yank in Action
 
-!(https://github.com/ac7552/Yank/blob/master/Yank_in_action.png)
-!(https://github.com/ac7552/Yank/blob/master/chrome_history1.png)
-!(https://github.com/ac7552/Yank/blob/master/chrome_history2.png)
+! [](https://github.com/ac7552/Yank/blob/master/Yank_in_action.png)
+! [] (https://github.com/ac7552/Yank/blob/master/chrome_history1.png)
+! [] (https://github.com/ac7552/Yank/blob/master/chrome_history2.png)
 
 ### Technologies & Technical Challenges
 
