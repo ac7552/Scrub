@@ -1,6 +1,6 @@
-# Yank
+# Scrub
 
-Yanking away unwanted browser history
+Scrubbing away unwanted browser history
 
 ### URL Remover
 
@@ -15,21 +15,21 @@ With this extension, users will be able to:
 
 - [ ] Input into a form specific urls or keywords to be blacklisted
 - [ ] Deletes from Browser any urls that are on the blacklist
-- [ ] Removes keywords from Yank list 
+- [ ] Removes keywords from Scrub list 
 
 
 #How to use
 
-  - In the Yank input field type in any text you believe is associated  with URLs that you'd like to remove. The extension will then remove those URLs from your history. Any text that is inputed into the Yank input box will persist, as text are added to a list that will be checked and removed from the history on page load.
+  - In the Scrub input field type in any text you believe is associated  with URLs that you'd like to remove. The extension will then remove those URLs from your history. Any text that is inputed into the Scrub input box will persist, as text are added to a list that will be checked and removed from the history on page load.
 
-- In the Un-Yank input field type in a keyword that you'd like to be removed from the yank list, and the removal of that keyword from URL history will no longer persist.
+- In the Un-Scrub input field type in a keyword that you'd like to be removed from the Scrub list, and the removal of that keyword from URL history will no longer persist.
 
 
-### Yank in Action
+### Scrub in Action
 
-![Yank in Action](https://github.com/ac7552/Yank/blob/master/Yank_in_action.png)
-![Chrome History 1] (https://github.com/ac7552/Yank/blob/master/chrome_history1.png)
-![Chrome History 2] (https://github.com/ac7552/Yank/blob/master/chrome_history2.png)
+![Scrub in Action](https://github.com/ac7552/Scrub/blob/master/Yank_in_action.png)
+![Chrome History 1] (https://github.com/ac7552/Scrub/blob/master/chrome_history1.png)
+![Chrome History 2] (https://github.com/ac7552/Scrub/blob/master/chrome_history2.png)
 
 ### Technologies & Technical Challenges
 
@@ -47,7 +47,7 @@ This app also makes extensive use of the chrome history api:
 https://developer.chrome.com/extensions/history
 
 #Code Snippet:
-  - How Yank removes URLs from Chrome History
+  - How Scrub removes URLs from Chrome History
 ````Javascript
 
 let itemsDelete = () => {
