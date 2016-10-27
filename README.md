@@ -27,9 +27,9 @@ With this extension, users will be able to:
 
 ### Scrub in Action
 
-![Scrub in Action](https://github.com/ac7552/Scrub/blob/master/Yank_in_action.png)
-![Chrome History 1] (https://github.com/ac7552/Scrub/blob/master/chrome_history1.png)
-![Chrome History 2] (https://github.com/ac7552/Scrub/blob/master/chrome_history2.png)
+#![Scrub in Action](https://github.com/ac7552/Scrub/blob/master/Yank_in_action.png)
+#![Chrome History 1] (https://github.com/ac7552/Scrub/blob/master/chrome_history1.png)
+#![Chrome History 2] (https://github.com/ac7552/Scrub/blob/master/chrome_history2.png)
 
 ### Technologies & Technical Challenges
 
